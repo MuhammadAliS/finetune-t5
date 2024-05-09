@@ -1,0 +1,4 @@
+SentencePiece==0.2.0
+absl-py
+rouge_score
+transformers[torch]
